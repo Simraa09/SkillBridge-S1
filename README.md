@@ -11,7 +11,6 @@ It aims to help learners understand their current level of preparation and work 
 ---
 
 ## 🎯 Project Objectives
-
 - Provide students with a platform to assess their technical knowledge.
 - Evaluate their existing understanding through baseline assessments.
 - Generate practice assessments based on the selected technical domain.
@@ -22,8 +21,20 @@ It aims to help learners understand their current level of preparation and work 
 
 ---
 
-## 🔄 How SkillBridge Works
+## ✨ Key Features
+- **Student Authentication:** Secure student registration and login.
+- **Domain Selection:** Choose between Java and SQL.
+- **Baseline Assessment:** Evaluate existing knowledge through an initial MCQ-based assessment.
+- **Dynamic Practice Assessments:** Generate practice tests using questions from the selected domain's question bank.
+- **Progress Tracking:** Maintain assessment history, scores, and performance progress.
+- **Reassessment:** Allow students to evaluate their readiness after practising.
+- **Readiness Evaluation:** Compare assessment performance against the configured readiness threshold.
+- **Certification Resources:** Provide relevant external Oracle certification information after achieving the required readiness level.
+- **Admin Management:** Manage domains, questions, and readiness thresholds through the Django Admin interface.
 
+---
+
+## 🔄 How SkillBridge Works
 The platform follows a structured student journey:
 
 1. **Register / Login** – Students create an account or log in using their credentials.
@@ -39,8 +50,7 @@ The practice and reassessment cycle continues until the student achieves the con
 
 ---
 
-##  Technology Stack
-
+## Technology Stack
 The project is being developed using the following technologies:
 
 | Technology | Purpose |
@@ -53,11 +63,8 @@ The project is being developed using the following technologies:
 | **JavaScript** | Client-side functionality |
 | **Git & GitHub** | Version control and collaborative development |
 
-
-
+---
 
 This project is collaboratively developed by:
+
 **Simraa Wasim Parkar** and **Sonal Patil**
-
-
----

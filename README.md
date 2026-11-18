@@ -1,4 +1,4 @@
-# SKILLBRIDGE 🎯
+# SKILLBRIDGE
 
 ### Personalized Career Skill Assessment and Preparation Platform
 
@@ -12,7 +12,7 @@ It aims to help learners understand their current level of preparation and work 
 
 
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 The project is being developed using the following technologies:
 
@@ -29,7 +29,7 @@ The project is being developed using the following technologies:
 
 
 
-## This project is collaboratively developed by:
+This project is collaboratively developed by:
 **Simraa Wasim Parkar** and **Sonal Patil**
 
 
